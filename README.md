@@ -3,7 +3,7 @@ Community calls are a place to involve Spyder’s community in the process of ma
 
 # Next call: October 6 at 11am Pacific (Your [timezone](https://arewemeetingyet.com/Los%20Angeles/2021-10-06/11:00/q/Spyder%20Community%20Call))
 
-[![Join on Zoom](https://us02web.zoom.us/j/85204195850?pwd=dDJhRG1UUjNZUVkzV1ZhNyt2eTFEdz09)
+[![Join on Zoom](https://img.shields.io/badge/-Join%20on%20Zoom-brightgreen)](https://us02web.zoom.us/j/85204195850?pwd=dDJhRG1UUjNZUVkzV1ZhNyt2eTFEdz09)
 
 ## Guides
 
