@@ -1,7 +1,7 @@
 # Spyder-communitycalls
 Community calls are a place to involve Spyder’s community in the process of making decisions for future improvements and developments. You are welcome to come give your input on Spyder's features, propose new ideas or share anything cool that you do with Spyder.
 
-# Next call: December 8 at 18:00 UTC (Your [timezone](https://arewemeetingyet.com/UTC/2021-12-08/18:00/Spyder%20community%20call))
+# Next call: February 2 at 18:00 UTC (Your [timezone](https://arewemeetingyet.com/Bogota/2022-02-02/13:00/Spyder%20community%20call))
 
 [![Join on Zoom](https://img.shields.io/badge/-Join%20on%20Zoom-brightgreen)](https://us02web.zoom.us/j/85204195850?pwd=dDJhRG1UUjNZUVkzV1ZhNyt2eTFEdz09)
 
