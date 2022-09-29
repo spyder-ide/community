@@ -1,7 +1,7 @@
 # Spyder-communitycalls
 Community calls are a place to involve Spyder’s community in the process of making decisions for future improvements and developments. You are welcome to come give your input on Spyder's features, propose new ideas or share anything cool that you do with Spyder.
 
-# Next call: February 2 at 18:00 UTC (Your [timezone](https://arewemeetingyet.com/Bogota/2022-02-02/13:00/Spyder%20community%20call))
+# Next call: October 26, 2022 at 18:00 UTC (Your [timezone](https://arewemeetingyet.com/UTC/2022-10-26/18:00/Spyder%20community%20call))
 
 [![Join on Zoom](https://img.shields.io/badge/-Join%20on%20Zoom-brightgreen)](https://us02web.zoom.us/j/85204195850?pwd=dDJhRG1UUjNZUVkzV1ZhNyt2eTFEdz09)
 
@@ -13,7 +13,9 @@ Community calls are a place to involve Spyder’s community in the process of ma
 
 ## Notes
 
-[October 6](https://hackmd.io/pxsme-fPSKmkd8s5SIs_Yg)
+* [October 26, 2022](https://hackmd.io/3E9PS0DTR1afgbszr7GKVQ)
+
+* [October 6, 2021](https://hackmd.io/pxsme-fPSKmkd8s5SIs_Yg)
 
 
 ## Resources
@@ -49,7 +51,7 @@ Community calls are a place to involve Spyder’s community in the process of ma
 
 [Facebook](https://www.facebook.com/SpyderIDE)
 
-
+[Gitter](https://gitter.im/spyder-ide/public)
 
 
 
